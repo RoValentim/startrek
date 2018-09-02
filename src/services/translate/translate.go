@@ -17,7 +17,7 @@ func Klingon(word string) string {
 
         for _, v := range strings.ToLower(word) {
                 if v == ' ' {
-                        hex = hex + "0x20 "
+                        hex = hex + "0x0020 "
                 } else {
                         _, ok := pIqaD[string(v)]
 
