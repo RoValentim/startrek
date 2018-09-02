@@ -1,0 +1,234 @@
+[0] STT FATAL:   2018/09/02 15:38:54 No word to translate
+[0] STT FATAL:   2018/09/02 15:52:41 Starting Star Trek Transaltor
+[0] STT ERROR:   2018/09/02 15:52:41 No word to translate
+[0] STT FATAL:   2018/09/02 15:52:45 Starting Star Trek Transaltor
+[0] STT ERROR:   2018/09/02 15:52:45 No word to translate
+[0] STT FATAL:   2018/09/02 15:53:07 Starting Star Trek Transaltor
+[0] STT ERROR:   2018/09/02 15:53:07 No word to translate
+[0] STT FATAL:   2018/09/02 15:53:33 Starting Star Trek Transaltor
+[0] STT ERROR:   2018/09/02 15:53:33 No word to translate
+[0] STT FATAL:   2018/09/02 15:53:36 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 15:53:36 1
+[0] STT FATAL:   2018/09/02 15:54:58 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 15:54:58 1
+[0] STT FATAL:   2018/09/02 15:56:22 Starting Star Trek Transaltor
+[0] STT ERROR:   2018/09/02 15:56:22 No word to translate
+[0] STT FATAL:   2018/09/02 15:56:24 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 15:56:24 1
+[0] STT FATAL:   2018/09/02 15:56:24 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 15:56:28 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 15:56:28 1
+[1] STT DEBUG:   2018/09/02 15:56:28 2
+[0] STT FATAL:   2018/09/02 15:56:28 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 15:56:31 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 15:56:31 1
+[1] STT DEBUG:   2018/09/02 15:56:31 2
+[2] STT DEBUG:   2018/09/02 15:56:31 3
+[2] STT DEBUG:   2018/09/02 15:56:31 This word could not be translated: 3
+[0] STT FATAL:   2018/09/02 15:56:31 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 15:56:45 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 15:56:45 1
+[1] STT DEBUG:   2018/09/02 15:56:45 2
+[2] STT DEBUG:   2018/09/02 15:56:45 3
+[3] STT DEBUG:   2018/09/02 15:56:45 4
+[2] STT DEBUG:   2018/09/02 15:56:45 This word could not be translated: 3
+[0] STT FATAL:   2018/09/02 15:56:45 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 15:59:11 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 15:59:11 1
+[1] STT DEBUG:   2018/09/02 15:59:11 2
+[2] STT DEBUG:   2018/09/02 15:59:11 3
+[3] STT DEBUG:   2018/09/02 15:59:11 4
+[2] STT DEBUG:   2018/09/02 15:59:11 This word could not be translated: 3
+[0] STT FATAL:   2018/09/02 15:59:11 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 16:28:24 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 16:28:24 1
+[1] STT DEBUG:   2018/09/02 16:28:24 2
+[2] STT DEBUG:   2018/09/02 16:28:24 3
+[3] STT DEBUG:   2018/09/02 16:28:24 4
+[1] STT DEBUG:   2018/09/02 16:28:24 This word could not be translated: 2
+[0] STT FATAL:   2018/09/02 16:28:24 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 16:43:37 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 16:43:37 1
+[1] STT DEBUG:   2018/09/02 16:43:37 2
+[2] STT DEBUG:   2018/09/02 16:43:37 3
+[3] STT DEBUG:   2018/09/02 16:43:37 4
+[1] STT FATAL:   2018/09/02 16:43:37 Klingon Transaltation
+[1] STT FATAL:   2018/09/02 16:43:37 1 2 3 4
+[0] STT FATAL:   2018/09/02 16:43:37 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:00:12 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:00:12 u
+[1] STT FATAL:   2018/09/02 17:00:12 Klingon Transaltation
+[1] STT DEFAULT: 2018/09/02 17:00:12 u
+[0] STT FATAL:   2018/09/02 17:00:12 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:07:27 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:07:27 u
+[1] STT FATAL:   2018/09/02 17:07:27 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:07:27 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:07:41 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:07:41 Rodrigo
+[1] STT FATAL:   2018/09/02 17:07:41 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:07:41 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:07:49 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:07:49 Rodrigo
+[1] STT FATAL:   2018/09/02 17:07:49 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:07:50 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:08:11 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:08:11 Rodrigo
+[1] STT FATAL:   2018/09/02 17:08:11 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:08:11 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:08:15 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:08:15 Rodrigo
+[1] STT FATAL:   2018/09/02 17:08:15 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:08:15 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:10:00 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:10:00 Rodrigo
+[1] STT FATAL:   2018/09/02 17:10:00 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:10:00 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:10:17 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:10:17 Rodrigo
+[1] STT FATAL:   2018/09/02 17:10:17 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:10:17 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:10:33 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:10:33 Rodrigo
+[1] STT FATAL:   2018/09/02 17:10:33 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:10:33 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:10:42 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:10:42 Rodrigo
+[1] STT FATAL:   2018/09/02 17:10:42 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:10:42 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:11:39 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:11:39 Rodrigo
+[1] STT FATAL:   2018/09/02 17:11:39 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:11:39 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:11:46 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:11:46 Rodrigo
+[1] STT FATAL:   2018/09/02 17:11:46 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:11:46 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:13:03 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:13:03 Rodrigo
+[1] STT DEBUG:   2018/09/02 17:13:03 Valentim
+[1] STT FATAL:   2018/09/02 17:13:03 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:13:03 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:13:46 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:13:46 Rodrigo
+[1] STT DEBUG:   2018/09/02 17:13:46 Valentim
+[1] STT FATAL:   2018/09/02 17:13:46 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:13:46 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:15:27 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:15:27 Rodrigo
+[1] STT DEBUG:   2018/09/02 17:15:27 Valentim
+[1] STT FATAL:   2018/09/02 17:15:27 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:15:27 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:15:49 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:15:49 Rodrigo
+[1] STT DEBUG:   2018/09/02 17:15:49 Valentim
+[1] STT FATAL:   2018/09/02 17:15:49 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:15:49 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:16:52 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:16:52 Rodrigo
+[1] STT DEBUG:   2018/09/02 17:16:52 Valentim
+[1] STT FATAL:   2018/09/02 17:16:52 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:16:52 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:31:14 Starting Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:37:39 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:37:39 Rodrigo
+[0] STT FATAL:   2018/09/02 17:39:04 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:39:04 Rodrigo
+[1] STT FATAL:   2018/09/02 17:39:04 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:39:04 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:39:52 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:39:52 A
+[1] STT DEBUG:   2018/09/02 17:39:52 Rodrigo
+[1] STT FATAL:   2018/09/02 17:39:52 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:39:52 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:40:35 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:40:35 A
+[1] STT DEBUG:   2018/09/02 17:40:35 Rodrigo
+[1] STT FATAL:   2018/09/02 17:40:35 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:40:35 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:43:05 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:43:06 A
+[1] STT DEBUG:   2018/09/02 17:43:06 Rodrigo
+[1] STT FATAL:   2018/09/02 17:43:06 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:43:06 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:43:45 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:43:45 A
+[1] STT DEBUG:   2018/09/02 17:43:45 Rodrigo
+[1] STT FATAL:   2018/09/02 17:43:45 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:43:45 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:44:09 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:44:09 A
+[1] STT DEBUG:   2018/09/02 17:44:09 Rodrigo
+[1] STT FATAL:   2018/09/02 17:44:09 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:44:09 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:44:24 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:44:24 A
+[1] STT DEBUG:   2018/09/02 17:44:24 Rodrigo
+[1] STT FATAL:   2018/09/02 17:44:24 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:44:24 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:44:46 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:44:46 A
+[1] STT DEBUG:   2018/09/02 17:44:46 Rodrigo
+[1] STT FATAL:   2018/09/02 17:44:46 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:44:46 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:44:52 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:44:52 A
+[1] STT DEBUG:   2018/09/02 17:44:52 Rodrigo
+[1] STT FATAL:   2018/09/02 17:44:52 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:44:52 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:48:29 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:48:29 A
+[1] STT DEBUG:   2018/09/02 17:48:29 Rodrigo
+[1] STT FATAL:   2018/09/02 17:48:29 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:48:29 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:48:38 Starting Star Trek Transaltor
+[0] STT DEBUG:   2018/09/02 17:48:38 A
+[1] STT DEBUG:   2018/09/02 17:48:38 Rodrigo
+[1] STT FATAL:   2018/09/02 17:48:38 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:48:38 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:58:49 Starting Star Trek Transaltor
+[1] STT FATAL:   2018/09/02 17:58:49 Setting pIqaD
+[0] STT DEBUG:   2018/09/02 17:58:49 A
+[1] STT DEBUG:   2018/09/02 17:58:49 Rodrigo
+[1] STT FATAL:   2018/09/02 17:58:49 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:58:49 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 17:58:59 Starting Star Trek Transaltor
+[1] STT FATAL:   2018/09/02 17:58:59 Setting pIqaD
+[0] STT DEBUG:   2018/09/02 17:58:59 A
+[1] STT DEBUG:   2018/09/02 17:58:59 X
+[2] STT DEBUG:   2018/09/02 17:58:59 Rodrigo
+[1] STT FATAL:   2018/09/02 17:58:59 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 17:58:59 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 18:01:00 Starting Star Trek Transaltor
+[1] STT FATAL:   2018/09/02 18:01:00 Setting pIqaD
+[0] STT DEBUG:   2018/09/02 18:01:00 A
+[1] STT DEBUG:   2018/09/02 18:01:00 X
+[2] STT DEBUG:   2018/09/02 18:01:00 Rodrigo
+[1] STT FATAL:   2018/09/02 18:01:00 Klingon Transaltation
+[1] STT DEBUG:   2018/09/02 18:01:00 map[status:2 message:This word could not be translated. error:]
+[0] STT FATAL:   2018/09/02 18:01:00 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 18:03:12 Starting Star Trek Transaltor
+[1] STT FATAL:   2018/09/02 18:03:12 Setting pIqaD
+[0] STT DEBUG:   2018/09/02 18:03:12 A
+[1] STT DEBUG:   2018/09/02 18:03:12 X
+[2] STT DEBUG:   2018/09/02 18:03:12 Rodrigo
+[1] STT FATAL:   2018/09/02 18:03:12 Klingon Transaltation
+[1] STT DEBUG:   2018/09/02 18:03:12 map[status:2 message:This word could not be translated.]
+[0] STT FATAL:   2018/09/02 18:03:12 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 18:03:32 Starting Star Trek Transaltor
+[1] STT FATAL:   2018/09/02 18:03:32 Setting pIqaD
+[0] STT DEBUG:   2018/09/02 18:03:32 A
+[1] STT DEBUG:   2018/09/02 18:03:32 Rodrigo
+[1] STT FATAL:   2018/09/02 18:03:32 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 18:03:32 Ending Star Trek Transaltor
+[0] STT FATAL:   2018/09/02 18:03:44 Starting Star Trek Transaltor
+[1] STT FATAL:   2018/09/02 18:03:44 Setting pIqaD
+[0] STT DEBUG:   2018/09/02 18:03:44 Uhura
+[1] STT FATAL:   2018/09/02 18:03:44 Klingon Transaltation
+[0] STT FATAL:   2018/09/02 18:03:44 Ending Star Trek Transaltor
+[1] STT DEFAULT: 2018/09/02 18:07:59 0XF8E5 0XF8D6 0XF8E5 0XF8E1 0XF8D0
+2018/09/02 18:09:45 0XF8E5 0XF8D6 0XF8E5 0XF8E1 0XF8D0
+0XF8E5 0XF8D6 0XF8E5 0XF8E1 0XF8D0
+0XF8E5 0XF8D6 0XF8E5 0XF8E1 0XF8D0
+0XF8E5 0XF8D6 0XF8E5 0XF8E1 0XF8D0 0x20 0XF8E1 0XF8DE 0XF8D3 0XF8E1 0XF8D7 0XF8D5 0XF8DE
+
