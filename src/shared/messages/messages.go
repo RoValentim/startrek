@@ -15,11 +15,15 @@ func init() {
                 },
                 returnListStruct {
                         Status: 1,
-                        Message: "", //Error from GoLang
+                        Message: "", //Reserved to errors from GoLang
                 },
                 returnListStruct {
                         Status: 2,
                         Message: "This word could not be translated.",
+                },
+                returnListStruct {
+                        Status: 3,
+                        Message: "Name without defined race.",
                 },
         }
 }

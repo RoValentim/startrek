@@ -1,4 +1,4 @@
-package translate
+package character
 
 import (
 	"testing"

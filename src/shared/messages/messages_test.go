@@ -5,7 +5,7 @@ import (
 )
 
 func TestNotFound_pass(t *testing.T) {
-        if len(ReturnList) > 3 {
+        if len(ReturnList) > 4 {
                 t.Errorf("Finding unset message")
         }
 }

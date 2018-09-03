@@ -10,31 +10,30 @@ import (
 
 var pIqaD map[string]int
 
-func Klingon(word string) string {
+func Klingon(ch chan bool, word string, hex *string) {
         logger.Log("1", "Klingon Transaltation", logger.FATAL)
-
-        var hex string
+        var aux string
 
         for _, v := range strings.ToLower(word) {
                 if v == ' ' {
-                        hex = hex + "0x0020 "
+                        aux = aux + "0x0020 "
                 } else {
                         _, ok := pIqaD[string(v)]
 
                         if ok == true {
-                                hex = hex + fmt.Sprintf("%#X ", pIqaD[string(v)] + 0xF8D0)
+                                aux = aux + fmt.Sprintf("%#X ", pIqaD[string(v)] + 0xF8D0)
                         } else {
                                 logger.Log("1", messages.ReturnList[2], logger.DEBUG)
-                                return ""
+                                ch <- false
+                                return
                         }
                 }
         }
-        hex = strings.Trim(hex, " ")
-
-        return hex
+        *hex = aux
+        ch <- false
 }
 
-func SetpIqaD(ch chan bool) {
+func SetpIqaD() {
         logger.Log("1", "Setting pIqaD", logger.FATAL)
 
         m := make(map[string]int)
@@ -79,5 +78,4 @@ func SetpIqaD(ch chan bool) {
         m[","] = 37
 
         pIqaD = m
-        ch <- true
 }

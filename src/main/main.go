@@ -14,7 +14,7 @@ import (
 func main() {
 	logger.Log("0", "Starting Star Trek Transaltor", logger.FATAL)
 
-	var word string
+	var hex, specie, word string
 
 	argsCount := len(os.Args)-1
 	argsData  := os.Args[1:]
@@ -24,22 +24,22 @@ func main() {
 		return
 	}
 
-	ch := make(chan bool, 1)
-	translate.SetpIqaD(ch)
-
 	for i, v := range argsData {
 		word = word + " " + v
 		logger.Log(strconv.Itoa(i), v, logger.DEBUG)
 	}
 	word = strings.Trim(word, " ")
 
+	translate.SetpIqaD()
+
+	ch := make(chan bool, 2)
+	go translate.Klingon  (ch, word, &hex   )
+	go character.GetSpecie(ch, word, &specie)
 	<- ch
-        close(ch)
+	<- ch
+	close(ch)
 
-	hex := translate.Klingon(word)
-	logger.Log("0", hex, logger.DEFAULT)
-
-	specie := character.GetSpecie(word)
+	logger.Log("0", hex   , logger.DEFAULT)
 	logger.Log("0", specie, logger.DEFAULT)
 
 	logger.Log("0", "Ending Star Trek Transaltor", logger.FATAL)
