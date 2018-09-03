@@ -35,7 +35,9 @@ go test -v
 ```
 
 ## Running the application
-To run the application, get inside main folder and run main.go with a name as parameter
+To run the application in CentOS 7 or Windows, you can just run the main binary found in /bin, with a name
+
+Another option is get inside main folder and run main.go with a name as parameter
 ```
 cd /tmp/RoValentim/src/main
 go run main.go Uhuru
