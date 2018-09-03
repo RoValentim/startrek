@@ -14,12 +14,14 @@ func TestSetpIqaD_pass(t *testing.T) {
 }
 
 func TestKlingon_pass(t *testing.T) {
+	var hex string
+
 	ch  := make(chan bool, 1)
-
-        hex := Klingon(ch, "Uhura")
-
+        go Klingon(ch, "Uhura", &hex)
 	<- ch
         close(ch)
+
+	hex = strings.Trim(hex, " ")
 
         if strings.Compare(hex, "0XF8E5 0XF8D6 0XF8E5 0XF8E1 0XF8D0") != 0 {
                 t.Errorf("Error transalting Uhura")

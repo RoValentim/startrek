@@ -6,9 +6,16 @@ import (
 )
 
 func TestUhuraSpecie_pass(t *testing.T) {
-        specie := strings.ToLower( GetSpecie("Uhura") )
+        var specie string
 
-        if strings.Compare(specie, "human") != 0 {
+        ch  := make(chan bool, 1)
+        go GetSpecie(ch, strings.ToLower("Uhura"), &specie)
+	<- ch
+        close(ch)
+
+        specie = strings.Trim(specie, " ")
+
+        if strings.Compare(specie, "Human") != 0 {
                 t.Errorf("Error getting Uhura specie")
         }
 }

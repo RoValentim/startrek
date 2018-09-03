@@ -58,10 +58,6 @@ func getFullCharacter(uid string) string {
 	url := fmt.Sprintf("%s?uid=%s", defines.StapiRESTCharacter, uid)
 	logger.Log("2", url, logger.DEBUG)
 
-        headers := make(map[string]string)
-	headers["Content-Type"]  = "application/x-www-form-urlencoded"
-        headers["Access-Control-Allow-Origin"]  = "*"
-
         ret, err := urls.SendRequest("2", "GET", url, nil, nil, defines.Timeout)
 	if err != nil {
 		return ""
